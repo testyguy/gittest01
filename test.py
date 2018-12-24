@@ -1,3 +1,6 @@
+from supplemental import hello
+
+
 print("edit 01")
 
 
@@ -12,4 +15,4 @@ def edit03(var):
 
 edit02()
 edit03(11)
-
+hello("mark")
