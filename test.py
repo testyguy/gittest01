@@ -6,4 +6,10 @@ def edit02():
     print(x)
 
 
+def edit03(var):
+    print(var)
+
+
 edit02()
+edit03(11)
+
